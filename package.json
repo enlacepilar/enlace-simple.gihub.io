@@ -1,0 +1,24 @@
+{
+  "name": "proyecto_prueba",
+  "version": "1.0.0",
+  "description": "Prueba",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hugob79/enlace-simple.gihub.io.git"
+  },
+  "author": "Hugo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hugob79/enlace-simple.gihub.io/issues"
+  },
+  "homepage": "https://github.com/Hugob79/enlace-simple.gihub.io#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.2",
+    "datatables.net": "^1.12.1",
+    "datatables.net-buttons": "^2.2.3"
+  }
+}
